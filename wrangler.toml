@@ -1,4 +1,5 @@
-name = "unknowncode-backend"
+# wrangler.toml
+name = 'uknowncode-bd'
 main = "src/index.ts"
 compatibility_date = "2026-11-05"
 
